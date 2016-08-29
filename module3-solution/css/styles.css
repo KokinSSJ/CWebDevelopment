@@ -48,17 +48,33 @@ body{
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
-.container p{
+
+.head-name{
 	font-size: 2em;
 	font-weight: bold;
-
+	text-align: center;
 }
-div.col-xs-12{
+
+.element{
 	background-color: #7FA8E2;
 	border: 2px solid red;
 	border-radius: 20px;
+	margin-left: 10px;
+	margin-top:10px;
+	padding: 20px;
+	/*height:3000px;*/
+	box-shadow: 0 10px 30px #111;
 }
-.box-text{
+h3{
+	font-size: 2em;
+	font-weight: bold;
+	/*text-align: center;*/
+	font-size: 1.6em;
+	margin-top:0;
+
+}
+
+/*.box-text{
 	margin-top:10px;
 
 }
@@ -69,5 +85,11 @@ div.col-xs-12{
 .box-text p{
 	font-size: 1.4em;
 	font-style: italic;
+}*/
+a{
+	font-weight: bold;
+	color:#A31931;
 }
+
+
 
