@@ -68,7 +68,6 @@ body{
 h3{
 	font-size: 2em;
 	font-weight: bold;
-	/*text-align: center;*/
 	font-size: 1.6em;
 	margin-top:0;
 
@@ -92,4 +91,9 @@ a{
 }
 
 
+footer section{
+	text-align: right;
+	font-style: italic;
+	font-size: 0.9em;
 
+}
