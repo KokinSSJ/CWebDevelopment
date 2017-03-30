@@ -7,4 +7,4 @@ Technologies:
 
 1. HTML 5
 2. CSS 3 ( Bootstrap 3)
-3. JavaScript (Ajaxa + jQuery)
+3. JavaScript (jQuery/AJAX)
